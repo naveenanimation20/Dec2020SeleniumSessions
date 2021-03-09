@@ -12,7 +12,7 @@ public class CrossBrowserTesting {
 	
 	public static void main(String[] args) {
 		
-		String browser = "firefox";
+		String browser = "chrome";
 
 		if (browser.equals("chrome")) {
 			//System.setProperty("webdriver.chrome.driver", "/Users/naveenautomationlabs/Downloads/chromedriver");
