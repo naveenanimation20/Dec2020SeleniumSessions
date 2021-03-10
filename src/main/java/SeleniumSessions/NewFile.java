@@ -16,6 +16,8 @@ public class NewFile {
 	
 	public void test() {
 		System.out.println("test");
+		System.out.println("local test");
+
 	}
 
 }
