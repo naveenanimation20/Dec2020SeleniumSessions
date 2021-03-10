@@ -10,5 +10,9 @@ public class NewFile {
 	public static void login() {
 		System.out.println("remote login");
 	}
+	
+	public void test() {
+		System.out.println("test");
+	}
 
 }
