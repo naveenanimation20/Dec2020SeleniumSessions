@@ -8,7 +8,7 @@ public class NewFile {
 	}
 	
 	public static void login() {
-		System.out.println("login");
+		System.out.println("remote login");
 	}
 
 }
